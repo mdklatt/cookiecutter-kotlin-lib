@@ -38,7 +38,7 @@ Create a new project directly from the template on `GitHub`_:
   $ cookiecutter gh:mdklatt/cookiecutter-idea-plugin
 
 
-.. |badge| image:: https://github.com/mdklatt/cookiecutter-kotlin-kib/actions/workflows/build.yml/badge.svg
+.. |badge| image:: https://github.com/mdklatt/cookiecutter-kotlin-lib/actions/workflows/test.yml/badge.svg
     :alt: GitHub Actions CI status
 .. _Cookiecutter: https://cookiecutter.readthedocs.org
 .. _Kotlin: https://kotlinlang.org
