@@ -1,0 +1,13 @@
+{
+    "lib_name": "template-lib",
+    "lib_package": "template.lib",
+    "maven_group": "",
+    "project_slug": "{{ cookiecutter.lib_name }}",
+    "project_url": "",
+    "author_name": "",
+    "author_email": "",
+    "project_version": "0.1.0.a0",
+    "kotlin_version": "1.7.10",
+    "gradle_version": "7.5.1",
+    "compact_dirs": "yes"
+}

@@ -1,0 +1,25 @@
+# Ignore Python environments.
+
+.python-version
+.venv*/
+
+
+# Ignore Make artifacts.
+
+**/.make-update
+
+
+# Ignore IDE settings.
+
+.idea/
+.project/
+.pydevproject/
+.vscode/
+nbproject/
+*.code-workspace
+
+
+# Ignore OS metadata files.
+
+.DS_Store
+Thumbs.db
