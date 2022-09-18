@@ -23,6 +23,7 @@ def main() -> int:
         kwargs = {
             "extra_context": {
                 "author_name": "Author",
+                "junit_runner": "JUnit",
                 "compact_dirs": "no",  # test directory expansion
             },
             "no_input": True,

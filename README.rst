@@ -39,7 +39,9 @@ Create a new project directly from the template on `GitHub`_:
 
 
 .. |badge| image:: https://github.com/mdklatt/cookiecutter-kotlin-lib/actions/workflows/test.yml/badge.svg
-    :alt: GitHub Actions CI status
+    :alt: GitHub Actions status
+    :target: `GitHub Actions`_
+.. _GitHub Actions: https://github.com/mdklatt/cookiecutter-kotlin-lib/actions/workflows/test.yml
 .. _Cookiecutter: https://cookiecutter.readthedocs.org
 .. _Kotlin: https://kotlinlang.org
 .. _Gradle: https://gradle.org
