@@ -11,5 +11,5 @@
     "gradle_version": "7.5.1",
     "junit_version": "5.9.0",
     "junit_runner": ["Gradle", "JUnit"],
-    "compact_dirs": "yes"
+    "compact_dirs": ["yes", "no"]
 }
